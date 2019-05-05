@@ -15,3 +15,42 @@
   color: #fff;
   text-decoration: none;
 }
+
+.jumbotron {
+  background-image: asset-url('BpzAuax-blue-nature-wallpaper.jpg');
+  background-size: cover;
+  height: 450px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.jumbotron h1 {
+  color: darkblue;
+}
+
+footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: #777;
+}
+
+footer a:hover {
+  color: #222
+}
+
+footer small {
+  float: left;
+}
+
+footer ul {
+  float: right;
+  list-style: none;
+}
+
+footer ul li {
+  float: left;
+  margin-left: 15px
+}
